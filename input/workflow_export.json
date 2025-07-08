@@ -1,7 +1,0 @@
-[
-    {
-        "Title": "DevTools DBObject Search: Improvements to atbl_Integrations_DevTools_DatabaseObjectSources",
-        "Description": "- Add last Updated and Created for SourceParentRef and SourceParentRef\n- Add type of object (table/view/proc) \n- Add bit-flag to indicate if a table is a \"integration-table\" (contains INTEGR_REC_GROUPREF,INTEGR_REC_BATCHREF...)",
-        "ID": 1120541
-    }
-]
